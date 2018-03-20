@@ -43,7 +43,7 @@ p {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
   backface-visibility: hidden;
-  transition: all 0.45s linear;
+  transition: all 0.45s ease-out;
 }
 .card-front {
   background: #e2e2e2;
